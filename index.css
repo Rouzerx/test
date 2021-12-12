@@ -1,0 +1,136 @@
+.sec2bgimg{
+    background-image: url(section_img1.png);
+    background-size: 100% 100%;
+
+}
+.navdeco1{
+    color: #231f20;
+    font-size: 14px;
+    font-weight: 500;
+}
+.navdeco2{
+    color: #ffffff;
+    font-size: 43px;
+    font-weight: 600;
+}
+.navdeco3{
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+}
+.sectioBG{
+    background-image: url(responsivesec3img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sectiobgdeco_1_1{
+    color: #433f3f;
+    font: 32px;
+    font-weight: 600;
+}
+.sectiobgdeco_1_2{
+    color: #47425d;
+    font: 14px;
+}
+.sectiobgdeco_1_3{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+}
+.sectiobgdeco_1_4{
+    color: #ffffff;
+    font-size: 18px;
+    font-style: italic;
+}
+.sectiobgdeco_1_5{
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+}
+.secionbgdeco_2_1{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+}
+.sectionbgdeco_2_1{
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 20px;
+    font: 70px 70px;
+}
+.secdecotext_M{
+   color: #00aeef;
+   font-size: 20px;
+   font-weight: 600;
+}
+.sectxt_S{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+}
+.text_p{
+    color: #dadada;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.seclast{
+    background-image: url(se4_5.png);
+}
+.sec4-5bg{
+    background-color: #dfdfdf;
+}
+.headfont{
+    color: #443f3f;
+    font-size: 32px;
+    font-weight: 600;
+}
+.sec2decotext_M{
+    color: #00aeef;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+
+ }
+ .sec2txt_S{
+    color: #6d6e71;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text_p_12{
+    color: #000000;
+    font-size: 16px;
+    font-weight: inherit;
+}
+.lastsecbd{
+    background-image: url(se4_5.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.carouselsiege{
+ background-size: auto 100%;
+}
+.foot1{
+    background-color: #252525;
+}
+.foot1_1{
+    color: #c5c5c5;
+    font-size: 18px;
+    font-weight: bold;
+}
+.foot1_2{
+    color: #767676;
+    font-size: 16px;
+    font-weight: bold;
+}
+.foot2{
+    background-color: #1c1c1c;
+}
+.foot2_1{
+    color: #767676;
+    font-size: 16px;
+    font-weight: inherit;
+}
